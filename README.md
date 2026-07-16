@@ -17,7 +17,7 @@
 - Python for Data Science
 - Machine Learning Algorithms
 - Git & GitHub Workflow
-- Web Development Basics
+- Web Development 
 
 ## 📫 Let's Connect
 - **Email:** rashmideepaktoragallamath@gmail.com
