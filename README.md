@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm Rashmi Deepak Toragallamath
 
-<!--
-**rashmideepaktoragallamath/rashmideepaktoragallamath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🏫 Computer Science Student at RV University (AI/ML Specialization)
+- 🤖 Aspiring AI/ML Engineer
+- 💻 Learning Python, Machine Learning, and Web Development
+- 🚀 Building projects and documenting my learning journey
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Python for Data Science
+- Machine Learning Algorithms
+- Git & GitHub Workflow
+- Web Development Basics
+
+## 📈 GitHub Stats
+![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmideepaktoragallamath&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmideepaktoragallamath&layout=compact&theme=radical)
+
+## 📫 Let's Connect
+- **Email:** rashmideepaktoragallamath@gmail.com
+- **GitHub:** [@rashmideepaktoragallamath](https://github.com/rashmideepaktoragallamath)
+
+---
+⭐ *"The beautiful thing about learning is that no one can take it away from you."* – B.B. King
