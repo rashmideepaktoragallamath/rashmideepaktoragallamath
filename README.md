@@ -20,10 +20,10 @@
 - Web Development Basics
 
 ## 📈 GitHub Stats
-![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmideepaktoragallamath&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmideepaktoragallamath&layout=compact&theme=default)
 
 ## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmideepaktoragallamath&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmideepaktoragallamath&layout=compact&theme=default)
 
 ## 📫 Let's Connect
 - **Email:** rashmideepaktoragallamath@gmail.com
