@@ -19,12 +19,6 @@
 - Git & GitHub Workflow
 - Web Development Basics
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmideepaktoragallamath&layout=compact&theme=default)
-
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmideepaktoragallamath&layout=compact&theme=default)
-
 ## 📫 Let's Connect
 - **Email:** rashmideepaktoragallamath@gmail.com
 - **GitHub:** [@rashmideepaktoragallamath](https://github.com/rashmideepaktoragallamath)
