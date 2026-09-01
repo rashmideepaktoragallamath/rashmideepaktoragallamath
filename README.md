@@ -50,13 +50,13 @@
 ### 🏠 PropVision AI
 AI-powered property valuation and intelligence platform combining machine learning, property visualization, explainable AI, and interactive decision-support features.
 
-### 📊 AI Adoption & Job Market Analysis
+### 📊 AI Adoption & Job Market Analysis(https://github.com/rashmideepaktoragallamath/AI-Job-Trends-PowerBI.git)
 Analyzed AI adoption, job postings, and skill demand trends from 2020–2025 using interactive Power BI dashboards.
 
-### ❤️ Heart Disease Prediction System
+### Heart Disease Prediction System(https://github.com/rashmideepaktoragallamath/Heart-disease-prediction.git)
 Machine learning project focused on predicting heart disease using patient-related features and classification techniques.
 
-### ⛓️ Blockchain-Based Document Verification
+### ⛓️ Blockchain-Based Document Verification(https://github.com/rashmideepaktoragallamath/Blockchain-Document-Verification.git)
 A blockchain-based system designed to verify the authenticity and integrity of digital documents.
 
 ### 🐶🐱 Cat-Dog Image Classifier
