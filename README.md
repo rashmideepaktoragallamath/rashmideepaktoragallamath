@@ -1,119 +1,107 @@
-# 👋 Hello, I'm Rashmi Deepak Toragallamath
+# 👋 Hey there! I'm Rashmi Deepak Toragallamath
+
+### 💡 Turning curiosity into code and ideas into intelligent solutions.
 
 🎓 Computer Science Student at RV University | AI & ML Specialization  
 🤖 Aspiring AI/ML Engineer | Developer | Problem Solver
 
-I enjoy building practical projects, exploring emerging technologies, and applying programming and AI/ML concepts to real-world problems.
+I love exploring technology, experimenting with ideas, and building projects that solve real-world problems.
 
-- 💻 Working on projects involving Machine Learning, Computer Vision, Data Analytics, and AI-powered applications.
-- 🚀 Interested in transforming ideas into functional applications.
-- 📚 Continuously learning, experimenting, and improving my development skills.
-- 🤝 Open to collaboration, hackathons, and opportunities to learn and build.
+- 🔭 Working on AI/ML and intelligent applications.
+- 🧠 Exploring Machine Learning, Computer Vision, and Data Analytics.
+- 🌱 Learning new technologies and improving my development skills.
+- 🚀 Interested in building meaningful products, not just writing code.
+- 🤝 Always open to collaboration, new ideas, and learning from others.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🧰 Languages & Technologies
 
-**💻 Programming Languages**
-- Python
-- Java
-- SQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,powershell&theme=dark" />
+</p>
 
-**🤖 AI, Machine Learning & Computer Vision**
-- Scikit-learn
-- TensorFlow
-- OpenCV
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask,react,tailwind,vercel&theme=dark" />
+</p>
 
-**📊 Data Analysis & Visualization**
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
-- Excel
-- Plotly
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,git,github,vscode&theme=dark" />
+</p>
 
-**🌐 Web Development**
-- HTML5
-- CSS3
-- Flask
-- Streamlit
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
 
-**🛠️ Developer Tools**
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
-**📖 Currently Exploring**
-- React
-- Node.js
-- Advanced Machine Learning
-- Explainable AI
-- Full-Stack Development
+**Currently Exploring:** React · Node.js · Advanced Machine Learning · Explainable AI · Full-Stack Development
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏠 PropVision AI — In Progress
-An enhanced version of my house price prediction project, focused on developing a more interactive property intelligence platform using machine learning and web technologies.
-
-**Technologies:** Python, Flask, Pandas, Scikit-learn, HTML, CSS
-
-### 📊 AI Job Trends Analysis (2024–2025)
-An interactive Power BI dashboard exploring job market trends, salary information, work types, and in-demand skills using job posting datasets.
-
-**Technologies:** Power BI, Excel, CSV, Data Analytics
-
-### ❤️ Heart Disease Prediction
-A machine learning project that explores classification techniques to predict the likelihood of heart disease using patient-related features.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn
-
-### ⛓️ Blockchain-Based Document Verification
-A Java-based project exploring blockchain concepts and cryptographic hashing to support digital document verification and integrity.
-
-**Technologies:** Java, SHA-256, Blockchain Concepts
-
-### ✋ Hand Gesture Recognition
-A computer vision project that uses deep learning to recognize hand gestures from images.
-
-**Technologies:** Python, TensorFlow, Computer Vision, Streamlit
-
-### 🐶🐱 Cat-Dog Image Classifier
-An image classification project using Histogram of Oriented Gradients (HOG) feature extraction and Support Vector Machine (SVM).
-
-**Technologies:** Python, HOG, SVM, Streamlit
+| Project | Description | Technologies |
+|---|---|---|
+| 🏠 **PropVision AI** | An evolving property prediction and intelligence platform. | Python, Flask, Scikit-learn |
+| 📊 **AI Job Trends Analysis** | Interactive dashboard exploring job market trends (2024–2025). | Power BI, Excel |
+| ❤️ **Heart Disease Prediction** | Machine learning classification for heart disease prediction. | Python, Scikit-learn |
+| ⛓️ **Blockchain Document Verification** | Digital document verification using blockchain concepts and hashing. | Java, SHA-256 |
+| ✋ **Hand Gesture Recognition** | Deep learning-based hand gesture recognition system. | Python, TensorFlow |
+| 🐶 **Cat-Dog Classifier** | Image classification using HOG features and SVM. | Python, OpenCV, SVM |
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Statistics
 
-- Advanced Machine Learning and Model Evaluation
-- Explainable AI (XAI)
-- Computer Vision
-- Full-Stack Development
-- Building and Deploying End-to-End Applications
-- Collaborative Software Development
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rashmideepaktoragallamath&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmideepaktoragallamath&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-## 🎯 Goals
-
-- Build practical AI/ML solutions that address real-world problems.
-- Strengthen my foundations in Artificial Intelligence and Software Development.
-- Explore new technologies and develop meaningful projects.
-- Contribute to collaborative projects and developer communities.
-- Grow through continuous learning and hands-on experience.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rashmideepaktoragallamath&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 🌱 My Learning Journey
 
-- 📧 Email: rashmideepallamath@gmail.com
-- 💻 GitHub: [@rashmideepaktoragallamath](https://github.com/rashmideepaktoragallamath)
-- 🔗 LinkedIn: [Rashmi Toragallamath](https://linkedin.com/in/rashmi-toragallamath)
+I believe growth comes from curiosity, consistency, and the courage to try things that seem challenging.
+
+Currently focusing on:
+- Strengthening my AI/ML foundations.
+- Building end-to-end applications.
+- Exploring full-stack development.
+- Improving problem-solving and software engineering skills.
+- Collaborating on meaningful technical projects.
 
 ---
 
-⭐ *"The beautiful thing about learning is that no one can take it away from you."* — B.B. King
+## 💭 A Thought I Believe In
+
+<p align="center">
+  <i>"The best way to predict the future is to create it."</i>
+</p>
+
+<p align="center">
+  <b>Learn something. Build something. Make it better.</b> ✨
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I enjoy meeting people with different perspectives, exchanging ideas, and collaborating on interesting projects.
+
+Whether you want to discuss technology, share an idea, or build something together, I'd be happy to connect!
+
+<p align="center">
+  <a href="mailto:rashmideepaktoragallamath@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rashmi-toragallamath">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rashmideepaktoragall
