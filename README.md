@@ -56,14 +56,13 @@ I love exploring technology, experimenting with ideas, and building projects tha
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rashmideepaktoragallamath&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmideepaktoragallamath&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmideepaktoragallamath&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmideepaktoragallamath&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rashmideepaktoragallamath&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=rashmideepaktoragallamath&theme=tokyonight&hide_border=true" width="70%" />
 </p>
-
 ---
 
 ## 🌱 My Learning Journey
