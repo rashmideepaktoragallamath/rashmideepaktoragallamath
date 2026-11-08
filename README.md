@@ -95,7 +95,8 @@ Currently focusing on:
 I enjoy meeting people with different perspectives, exchanging ideas, and collaborating on interesting projects.
 
 Whether you want to discuss technology, share an idea, or build something together, I'd be happy to connect!
-
+---
+  ⭐If you find my work interesting, consider giving it a star. Your support makes every late-night coding session a little more rewarding!
 <p align="center">
   <a href="mailto:rashmideepaktoragallamath@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -105,4 +106,4 @@ Whether you want to discuss technology, share an idea, or build something togeth
   </a>
   <a href="https://github.com/rashmideepaktoragall
 
-  ⭐If you find my work interesting, consider giving it a star. Your support makes every late-night coding session a little more rewarding!
+
