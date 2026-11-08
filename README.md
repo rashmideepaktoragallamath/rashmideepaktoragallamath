@@ -94,7 +94,9 @@ Currently focusing on:
 
 I enjoy meeting people with different perspectives, exchanging ideas, and collaborating on interesting projects.
 
+
 Whether you want to discuss technology, share an idea, or build something together, I'd be happy to connect!
+
 ---
   ⭐If you find my work interesting, consider giving it a star. Your support makes every late-night coding session a little more rewarding!
 <p align="center">
