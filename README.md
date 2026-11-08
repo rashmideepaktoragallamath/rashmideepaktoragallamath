@@ -104,3 +104,5 @@ Whether you want to discuss technology, share an idea, or build something togeth
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/rashmideepaktoragall
+
+  ⭐If you find my work interesting, consider giving it a star. Your support makes every late-night coding session a little more rewarding!
